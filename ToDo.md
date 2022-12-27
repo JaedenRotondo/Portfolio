@@ -2,7 +2,6 @@
 
 ## Web 
 ---
-- Change the font of the website and the Typewriter intro 
 - Change the colours of the webiste
 - Alter the Timeline 
 - Add a concordio university LOGO 
