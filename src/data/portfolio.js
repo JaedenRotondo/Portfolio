@@ -19,7 +19,7 @@ export default [
    },
    {
       title: 'Portfolio Website',
-      imgURL: 'assets/fractal .jpg', 
+      imgURL: '/assets/portfolio.png', 
       stack: ['React', 'Tailwind', 'Vite'], 
       link: 'https://github.com/JaedenRotondo/Portfolio',
    }
