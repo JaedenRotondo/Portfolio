@@ -2,7 +2,6 @@
 
 ## Web 
 ---
-- Change the colours of the webiste
 - Alter the Timeline 
 - Add a concordio university LOGO 
 - 
