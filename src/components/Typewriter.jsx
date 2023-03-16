@@ -9,7 +9,7 @@ function Typewriter({ text }) {
       setTypedText(text.substring(0, index));
       index++;
       if (index <= text.length) {
-        setTimeout(type, 80);
+        setTimeout(type, 50);
       }
     };
     type();
