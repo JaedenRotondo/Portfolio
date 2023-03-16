@@ -7,7 +7,7 @@ function Intro() {
          <h1 className="flex items-center justify-center text-base md:text-5xl font-bold font-large">Jaeden Rotondo</h1>
          <p className="flex items-center justify-center text-base md:text-xl mb-3 text-center font-medium">Computer Science Student and Software Developer</p>
          <p className="text-sm max-w-screen-md mb-6 font-mono ">
-         <Typewriter text = "> Third year computer science student who is eager to learn more through an internship as well as contribute to the work environment. Willing to work independently and in a team environment to further my experience in the field." />
+         <Typewriter text = "> I am a third year computer science student who is eager to learn more through an internship as well as contribute to the work environment. Willing to work independently and in a team environment to further my experience in the field." />
          </p>
          <h2 class= "md:text-2xl font-large">Education</h2>
          <div class="p-2"></div>
