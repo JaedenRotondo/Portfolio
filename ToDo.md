@@ -1,16 +1,16 @@
 # Things left to do: 
 
 ## Web 
----
+
 - Alter the Timeline 
-- Add a concordio university LOGO 
-- 
+- Add a Concordia university LOGO 
+- Renew Projects (include swift)
+- Renew intro bullet points 
+- Add option to download resume
+- Fix subheadings which don't appear larger on mobile
 
 
 
 ## Hosting
----
-- Figure out how to host a React application on firebase 
-- This website includes a step by step 
-    - https://circleci.com/blog/deploy-react-apps-to-firebase/
 
+- Check to see if Namespace has been propogated
