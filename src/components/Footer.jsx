@@ -3,7 +3,8 @@ import React from "react";
 
 function Footer(){
     return (
-        <div></div>
+        <div className="flex-col  pt-20 pb-6">
+        </div>
     )
 }
 
