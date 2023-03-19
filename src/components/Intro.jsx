@@ -11,8 +11,12 @@ function Intro() {
                 Science Student and Software Developer</p>
             <p className="text-sm max-w-screen-md mb-6 font-mono ">
                 <Typewriter
-                    text="> I am a third year computer science student who is eager to learn more through an internship as well as contribute to the work environment. Willing to work independently and in a team environment to further my experience in the field."/>
+                    text="> Hello and welcome to my portfolio website! I am a third year computer science student who is eager to learn more through an internship as well as contribute to the work environment. This website was built with React.js and Tailwind CSS, it is currently being hosted by Netlify."/>
+
+
+
             </p>
+
             <h2 class="md:text-2xl font-large">Education</h2>
             <div class="p-2"></div>
             <p className="text-left text-left font-medium">

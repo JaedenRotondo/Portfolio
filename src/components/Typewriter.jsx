@@ -6,12 +6,24 @@ function Typewriter({ text }) {
 
   useEffect(() => {
     const type = () => {
+      const currentChar = text.charAt(index);
+      const prevChar = text.charAt(index - 1);
+      let delay = 50;
+
+      if (currentChar === ' ') {
+        delay = 125;
+      } else if (prevChar === ' ') {
+        delay = 75;
+      }
+
       setTypedText(text.substring(0, index));
       index++;
+
       if (index <= text.length) {
-        setTimeout(type, 50);
+        setTimeout(type, delay);
       }
     };
+
     type();
   }, [text]);
 
