@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Intro from './components/Intro';
 import Portfolio from './components/Portfolio';
 import Timeline from './components/Timeline';
+import Education from "./components/Education.jsx";
 
 function App() {
 	const [theme, setTheme] = useState(null);
@@ -74,6 +75,7 @@ function App() {
 		<div className="bg-white dark:bg-blue-900 text-blue-900 dark:text-blue-300 min-h-screen font-inter">
 			<div className="max-w-5xl w-11/12 mx-auto">
 				<Intro />
+				<Education/>
 				<Portfolio />
 				<Timeline />
 				<Contact />

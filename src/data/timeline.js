@@ -10,7 +10,7 @@ export default [
         title: 'Front-End Developer for Zebra Technologies',
         duration: '4 months',
         details: 'Worked with a team of front-end developpers and engineers to create public component level hardware and\n' +
-            'software solution documentation for the Matrox Imaging Library.\n' +
+            'software solution documentation for the Matrox Imaging Library.\n\n' +
             '• Learned about computer hardware and imaging processes, specifically how barcode imaging is done\n' +
             '(scanning, error correction, implementation etc) with C and C++.\n' +
             '• Debugged and tested C++ code snippets, Python scripts, and XML and XSL files.'

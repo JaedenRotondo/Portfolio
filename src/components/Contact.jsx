@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { FaEnvelope, FaLinkedin, FaGithub } from "react-icons/fa";
+import Title from "./Title.jsx";
 
 function Contact() {
     const [hoverMail, setHoverMail] = useState(false);
@@ -7,9 +8,9 @@ function Contact() {
     const [hoverGithub, setHoverGithub] = useState(false);
 
     return (
-        <div className="flex-col pt-20 pb-6">
-            <h2 className="md:text-2xl font-large">Contact Me!</h2>
-            <div className="flex items-center mt-2">
+        <div className="flex-col pt-20 pb-6 ">
+            <Title>Contact Me!</Title>
+            <div className="flex items-center mt-2 ">
                 <a
                     href="mailto:jaedenrotondo@jaedenrotondo.tech"
                     className="inline-block text-blue-500 hover:text-blue-600 transition-colors"
