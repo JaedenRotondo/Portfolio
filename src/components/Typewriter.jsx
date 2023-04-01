@@ -8,12 +8,12 @@ function Typewriter({ text }) {
     const type = () => {
       const currentChar = text.charAt(index);
       const prevChar = text.charAt(index - 1);
-      let delay = 50;
+      let delay = 40;
 
       if (currentChar === ' ') {
-        delay = 125;
-      } else if (prevChar === ' ') {
         delay = 75;
+      } else if (prevChar === ' ') {
+        delay = 50;
       }
 
       setTypedText(text.substring(0, index));

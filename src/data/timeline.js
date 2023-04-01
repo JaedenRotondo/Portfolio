@@ -7,7 +7,7 @@ export default [
     },
     {
         year: '2022',
-        title: 'Front-End Developer for Zebra Technologies',
+        title: 'Tehcnical Writer for Zebra Technologies',
         duration: '4 months',
         details: 'Worked with a team of front-end developpers and engineers to create public component level hardware and\n' +
             'software solution documentation for the Matrox Imaging Library.\n\n' +

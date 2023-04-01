@@ -12,7 +12,7 @@ function Contact() {
             <Title>Contact Me!</Title>
             <div className="flex items-center mt-2 ">
                 <a
-                    href="mailto:jaedenrotondo@jaedenrotondo.tech"
+                    href="mailto:jae.rotondo@hotmail.ca"
                     className="inline-block text-blue-500 hover:text-blue-600 transition-colors"
                     onMouseEnter={() => setHoverMail(true)}
                     onMouseLeave={() => setHoverMail(false)}
