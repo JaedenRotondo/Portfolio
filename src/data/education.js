@@ -1,14 +1,17 @@
 export default [
     {
-        title: 'Proficient in Object Oriented Programming in Java through COMP 248 and COMP 249',
-    },
-    {
-        title: 'Experience in Web Development and Programming Paradigms through SOEN 287 and COMP 348',
-    },
-    {
         title: 'Mastered Data Structures and Algorithms through COMP 352',
     },
     {
+        title: 'Solid understanding of computer architectures through COMP 228 and COMP 346',
+    },
+    {
         title: 'Experience in AGILE methodologies and software development lifecycle through COMP 354',
+    },
+    {
+        title: 'Structured knowledge of Artificial intelligence through COMP 472',
+    },
+    {
+        title: 'Developing passion in Computer networks with COMP 445 and auditing COMP 6461 Computer Networks',
     },
 ]
