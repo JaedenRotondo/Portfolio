@@ -1,14 +1,14 @@
 export default [
     {
         year: 'Today',
-        title: 'Undergraduate COOP Student',
-        duration: '3 years',
-        details: 'I am in my third year of Computer Science at Concordia University, through my education along with my minor in Philosophy I have learned both hard skills in programming and theoretical computer science as well as soft skills in writing and project management methodologies.',
+        title: 'Undergraduate Student',
+        duration: '4 years',
+        details: 'I am in my fourth year of Computer Science at Concordia University, through my education along with my minor in Philosophy I have learned both hard skills in programming and theoretical computer science as well as soft skills in writing and project management methodologies.',
     },
     {
-        year: '2023',
+        year: 'Today',
         title: 'Full Stack Developer at Flexspring',
-        duration: '4 months',
+        duration: '8 months',
         details: '• Helped develop and redesign a React/Spring webapp, written in Typescript with MongoDB database.\n' +
             '• Achieved proficiency working with RESTful API\n' +
             '• Created dynamic react tables with column sorting, searching, and filtering done with server-side processing.\n' +
